@@ -1,0 +1,73 @@
+# 이용약관
+
+- 이용약관 내용 일부 수정 후 배포 형상에 적용
+  - 애플리케이션을 설치함과 동시에 효력이 발생한다는 내용으로 수정
+
+# 공지사항
+
+#### 로직
+
+- 애플리케이션 실행 시 `GET /notices?mustRead=true&skip=0&limit=3` 요청
+  - 필독 공지 최대 3개만 표시 (내부 DB와 비교하여 `다시 보지 않음`이 체크되지 않은 필독 공지만 최대 3개 표시)
+  - 모달창의 `다시 보지 않음` 체크 시 애플리케이션 내 DB에 정보 저장 (idx / mustRead)
+- 설정 > 공지사항
+  - `GET /notices?skip=0&lmit=5`
+
+#### API 스펙 (GET /notices)
+
+```
+// request query
+{
+  "mustRead": boolean, // 필독 여부
+  "skip": number, // 페이지
+  "limit": number, // 개수
+}
+
+// response
+{
+  "idx": number, // ID
+  "title": string, // 제목
+  "contents": string, // 내용
+  "mustRead": boolean, // 필독 여부
+}
+```
+
+- 서버리스 호출을 줄이기 위해 detail을 따로두지 않고 공지 목록에 내용까지 함께 응답한다
+  - 화면에는 공지를 5개까지만 출력하여 페이징
+  - skip은 limit 만큼 더해질 것
+
+#### UI 구성 (figma)
+
+- 앱 실행 시 공지사항
+- 설정 > 공지사항
+
+### DB 스키마 작성 (애플리케이션 / 서버리스)
+
+- 애플리케이션 `idx` / `disableWatch`
+  - 사용자가 필독 공지를 `다시 보지 않음` 할 때마다 INSERT
+- 서버리스
+  - Cloudflare Workers 활용
+  - GET /notices
+
+# 내 주변 약국
+
+#### 로직
+
+- 애플리케이션에서 `내 주변 약국` 기능 실행 > 프록시 API로 요청 (`GET /nearby-pharmacies`)
+
+#### UI 구성 (figma)
+
+- 메인 화면 버튼
+- 내 주변 약국 화면
+
+# 앱스토어 출시
+
+- IOS 개발자 계정 생성 (~12.1)
+- 내 주변 약국 작업 완료 후 출시 진행
+
+# 광고 탑재
+
+- 기술조사 (~12.1)
+  - 애드몹
+  - IOS 앱 및 안드로이드 앱에 광고 추가
+- IOS 출시 완료 후 플레이스토어 및 앱스토어 업데이트하여 적용
