@@ -1,11 +1,11 @@
-# 25년 6월 플레이스토어 업데이트 (6월 4일)
+# 25년 6월 플레이스토어 업데이트 (6월 14일)
 ## 반영되는 이슈
-#### 이미지 검색 안내 화면의 사용자 친화적 개선
+#### 이미지 검색 안내 화면의 사용자 친화적 개선 (~6월 11일)
 - https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/66)
   - [1차 PR](https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/pull/73)
   - [추가 변경 사항](https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/66#issuecomment-2897718795)
 
-#### firebase test lab 지원
+#### firebase test lab 지원 (~6월 12일)
 - https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/71
 
 ---
