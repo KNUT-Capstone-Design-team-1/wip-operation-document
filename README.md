@@ -1,4 +1,7 @@
 # 25년 6월 플레이스토어 업데이트 (6월 14일)
+
+- 업데이트 간 플레이스토어 내 애플리케이션 상세 설명 등 목적성이 명확하게 개선
+
 ## 반영되는 이슈
 #### 이미지 검색 안내 화면의 사용자 친화적 개선 (~6월 11일)
 - https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/66)
