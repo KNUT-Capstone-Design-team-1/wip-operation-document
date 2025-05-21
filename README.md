@@ -36,6 +36,7 @@
 - https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/21
 
 #### 주변 약국 검색 기능 개발 (6월 23일 ~ 9월 7일)
+- 무료 사용 가능한 지도 API 조사 필요
 - https://github.com/KNUT-Capstone-Design-team-1/wip-serverless/issues/11
 - https://github.com/KNUT-Capstone-Design-team-1/wip-client/issues/3
 - https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/30
