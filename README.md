@@ -34,7 +34,7 @@
 #### 검색 결과 화면에 현재 검색 옵션 표시 (6월 23일 ~ 8월 3일)
 - https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/52
 
-#### 공지사항 기능 개발 (6월 23일 ~ 8월 3일)
+#### 공지사항 기능 개발 (8월 3일 ~ 9월 7일)
 - https://github.com/KNUT-Capstone-Design-team-1/wip-serverless/issues/10
 - https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/21
 
