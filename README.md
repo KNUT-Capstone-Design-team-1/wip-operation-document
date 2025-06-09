@@ -10,13 +10,13 @@
 - https://github.com/KNUT-Capstone-Design-team-1/wip-serverless/issues/9
 - https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/59
 
-#### 알약 특징 인식 모델을 Gemini로 전환 및 nodejs 서버로 변경 (~6월 8일)
+#### 알약 특징 인식 모델을 Gemini로 전환 및 nodejs 서버로 변경 (~ 6월 8일)
 - https://github.com/KNUT-Capstone-Design-team-1/wip-deep-learning-server-v2/issues/16
 
-#### 이미지 검색 로직 변경 (~6월 15일)
+#### 이미지 검색 로직 변경 (~ 6월 15일)
 - https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/72
 
-#### 피그마 문서 업데이트 (~6월 15일)
+#### 피그마 문서 업데이트 (~ 6월 15일)
 - https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/62
 
 ---
@@ -30,6 +30,9 @@
 
 #### 검색 결과 필터 표시 및 재검색 기능 (6월 15일 ~ 7월 20일)
 - https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/52
+
+#### firebase test lab 지원 (~ 7월 15일)
+- https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/71
 
 #### 공지사항 기능 개발 (~ 7월 31일)
 - https://github.com/KNUT-Capstone-Design-team-1/wip-serverless/issues/10
