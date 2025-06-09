@@ -61,6 +61,7 @@
 # 25년 11월 30일 업데이트
 
 #### 디자인 리팩토링 (9월 8일 ~ 11월 23일)
+- https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/81
 
 ---
 
