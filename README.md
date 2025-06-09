@@ -62,7 +62,6 @@
 
 #### 디자인 리팩토링 (9월 8일 ~ 11월 23일)
 
-
 ---
 
 # 26년 1월 25일 업데이트
@@ -71,6 +70,7 @@
 - 11월 초 애플 개발자 계정 생성
 - CI ipa 빌드 확인
 - 버전체크 ios 지원
+- https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/46
 
 #### 평점 권유 기능 (10월 13일 ~ 1월 18일)
 - iOS도 함께 지원
@@ -80,5 +80,10 @@
 # 26년 3월 15일 업데이트
 
 #### 통합 검색 기능
+- https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/50
 
 #### 구글 광고 연동
+- https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/45
+
+#### 알약 개수 카운팅 기능
+- https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/31
