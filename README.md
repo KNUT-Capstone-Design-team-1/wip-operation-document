@@ -74,6 +74,7 @@
 
 #### 평점 권유 기능 (10월 13일 ~ 1월 18일)
 - iOS도 함께 지원
+- https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/64
 
 ---
 
