@@ -31,7 +31,7 @@
 #### 검색 결과 필터 표시 및 재검색 기능 (6월 15일 ~ 7월 20일)
 - https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/52
 
-#### firebase test lab 지원 (~ 7월 15일)
+#### 테스트 자동화 (~ 7월 15일)
 - https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/71
 
 #### 공지사항 기능 개발 (~ 7월 31일)
