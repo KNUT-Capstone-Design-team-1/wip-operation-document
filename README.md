@@ -10,25 +10,26 @@
 - https://github.com/KNUT-Capstone-Design-team-1/wip-serverless/issues/9
 - https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/59
 
-#### 알약 특징 인식 모델을 Gemini로 전환 및 nodejs 서버로 변경 (~ 6월 8일)
-- https://github.com/KNUT-Capstone-Design-team-1/wip-deep-learning-server-v2/issues/16
-
-#### 이미지 검색 로직 변경 (~ 6월 15일)
-- https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/72
-
-#### 피그마 문서 업데이트 (~ 6월 15일)
+#### 피그마 문서 업데이트 (완료)
 - https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/62
+
+#### 알약 특징 인식 모델을 Gemini로 전환 및 nodejs 서버로 변경 (~ 6월 20일)
+- https://github.com/KNUT-Capstone-Design-team-1/wip-deep-learning-server-v2/issues/16
+- https://github.com/KNUT-Capstone-Design-team-1/wip-serverless/issues/14
+
+#### 이미지 검색 로직 변경 (~ 6월 21일)
+- https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/72
 
 ---
  
 # 25년 8월 3일 업데이트
 
-#### 식별 검색 필터 상세화 (6월 15일 ~ 7월 20일)
+#### 식별 검색 필터 상세화 (6월 22일 ~ 7월 15일)
 - https://github.com/KNUT-Capstone-Design-team-1/wip-resource-deployer/issues/7
 - https://github.com/KNUT-Capstone-Design-team-1/wip-serverless/issues/13
 - https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/65
 
-#### 검색 결과 필터 표시 및 재검색 기능 (6월 15일 ~ 7월 20일)
+#### 검색 결과 필터 표시 및 재검색 기능 (6월 22일 ~ 7월 15일)
 - https://github.com/KNUT-Capstone-Design-team-1/wip-application-v2/issues/52
 
 #### 테스트 자동화 (~ 7월 15일)
@@ -42,7 +43,7 @@
 
 # 25년 9월 14일 업데이트
 
-#### 주변 약국 검색 기능 개발 (6월 23일 ~ 9월 7일)
+#### 주변 약국 검색 기능 개발 (6월 22일 ~ 9월 7일)
 - 무료 사용 가능한 지도 API 조사 필요
 - 약국 정보 API 정보 업데이트 주기 조사 필요
 - https://github.com/KNUT-Capstone-Design-team-1/wip-serverless/issues/11
